@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Teerasak-Mairoddee, I have made a career change Cyber Security & Ethical Hacking, carrying over my sales and software developing skills.
+- 👋 Hi, I’m @Teerasak-Mairoddee, I have made a career change to Cyber Security & Ethical Hacking, carrying over my sales and software developing skills.
 - 👀 I’m interested in Martial Arts & Ethical Hacking!
 - 🌱 I’m currently learning Networking and Pentesting. I am now working towards my CompTIA Certifications!
 - 💞️ I’m looking to collaborate on Pentesting Payloads!
