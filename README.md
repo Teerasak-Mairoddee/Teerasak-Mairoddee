@@ -1,6 +1,6 @@
 ## Hi, I'm Teerasak Mairoddee
 
-A self-taught cybersecurity enthusiast and developer from the UK, building secure systems, offensive tooling, and practical solutions to real-world problems. My journey blends five years of high-performance sales with hands-on security research, offensive development, and impactful side projects that are already making waves in the workplace.
+A self-taught cybersecurity student and developer from the UK, building secure systems, offensive tooling, and practical solutions to real-world problems. My journey blends five years of high-performance sales with hands-on security research, offensive development, and impactful side projects that are already making waves in the workplace.
 
 ---
 
